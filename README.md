@@ -120,7 +120,14 @@ streamlit run main.py
 
 ---
 
-## Autor
+## Contacto
 
-Desarrollado por [Articjm](https://github.com/Articjm)  
-Repositorio: [https://github.com/Articjm/PROYECTO_G5](https://github.com/Articjm/PROYECTO_G5)
+Proyecto elaborado por el Grupo 5 para el curso de Python Avanzado - UTEC.
+
+Integrantes:
+- Lazaro Mannucci, Carlos Renato
+- Miranda Romero Camila Malu
+- Moscoso Mollo, Jorge Jonathan
+- Pinto Ponce, Miguel Angel
+- Santivañez Carrizo, Jonathan Angel
+- Salamanca Jayos, Rodrigo Mathías
