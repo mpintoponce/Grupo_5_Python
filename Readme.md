@@ -59,25 +59,21 @@ https://raw.githubusercontent.com/Articjm/PROYECTO_G5/main/CAMION_TR.jpg<img wid
 
 ## 📌 Funcionalidades principales
 
-Visualización de cumplimiento de OTs semanal y mensual
-Análisis de OTs correctivas y programadas
-Seguimiento por tipo de componente y flota
-Métricas por flota individual
-Tendencia anual del cumplimiento
+- Visualización de cumplimiento de OTs semanal y mensual
+- Análisis de OTs correctivas y programadas
+- Seguimiento por tipo de componente y flota
+- Métricas por flota individual
+- Tendencia anual del cumplimiento
 
 ## 📂 Fuentes de datos
 
 El archivo CUMPLIMIENTO_PLAN.xlsm contiene las siguientes hojas de cálculo:
 
-IW38 PLAN SEMANAL
-
-IW38 SEMANA CAL
-
-BL MENSUALOT
-
-CMENSUAL
-
-RESUMEN ANUAL
+- IW38 PLAN SEMANAL
+- IW38 SEMANA CAL
+- BL MENSUALOT
+- CMENSUAL
+- RESUMEN ANUAL
 
 ## 📞 Contacto
 
