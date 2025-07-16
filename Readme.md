@@ -19,8 +19,11 @@ Este proyecto desarrollado en Python y Streamlit permite visualizar de manera di
 📂 Grupo_5_Python/
 
 ├── appv4.py # Código principal de la aplicación Streamlit
+
 ├── CUMPLIMIENTO_PLAN.xlsm # Archivo de datos fuente
+
 ├── requirements.txt # Dependencias necesarias
+
 └── README.md # Este archivo
 
 
