@@ -54,10 +54,10 @@ streamlit run appv4.py
 ```
 Esto abrirá automáticamente tu navegador con la aplicación ejecutándose en http://localhost:8501.
 
-📸 Vista previa
+## 📸 Vista previa
 https://raw.githubusercontent.com/Articjm/PROYECTO_G5/main/CAMION_TR.jpg<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8f054126-7f12-4b5c-9fe6-9f6f22d375e6" />
 
-📌 Funcionalidades principales
+## 📌 Funcionalidades principales
 
 Visualización de cumplimiento de OTs semanal y mensual
 Análisis de OTs correctivas y programadas
@@ -65,7 +65,7 @@ Seguimiento por tipo de componente y flota
 Métricas por flota individual
 Tendencia anual del cumplimiento
 
-📂 Fuentes de datos
+## 📂 Fuentes de datos
 
 El archivo CUMPLIMIENTO_PLAN.xlsm contiene las siguientes hojas de cálculo:
 
@@ -75,6 +75,6 @@ BL MENSUALOT
 CMENSUAL
 RESUMEN ANUAL
 
-📞 Contacto
+## 📞 Contacto
 
 Proyecto elaborado por el Grupo 5 para el curso de Python Avanzado - UTEC.
