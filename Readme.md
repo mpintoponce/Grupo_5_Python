@@ -33,6 +33,7 @@ Este proyecto desarrollado en Python y Streamlit permite visualizar de manera di
 git clone https://github.com/tu_usuario/Grupo_5_Python.git
 cd Grupo_5_Python
 
-2. Crear un entorno virtual (opcional pero recomendado)
+### 2. Crear un entorno virtual (opcional pero recomendado)
+
 python -m venv venv
 source venv/bin/activate  # En Windows usa: venv\Scripts\activate
