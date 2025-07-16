@@ -40,3 +40,10 @@ cd Grupo_5_Python
 python -m venv venv
 source venv/bin/activate  # En Windows usa: venv\Scripts\activate
 ```
+3. Instalar las dependencias
+
+pip install -r requirements.txt
+
+Si necesitas generar el archivo requirements.txt tú mismo, puedes hacerlo con:
+
+pip freeze > requirements.txt
