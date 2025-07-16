@@ -70,9 +70,13 @@ Tendencia anual del cumplimiento
 El archivo CUMPLIMIENTO_PLAN.xlsm contiene las siguientes hojas de cálculo:
 
 IW38 PLAN SEMANAL
+
 IW38 SEMANA CAL
+
 BL MENSUALOT
+
 CMENSUAL
+
 RESUMEN ANUAL
 
 ## 📞 Contacto
